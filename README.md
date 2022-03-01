@@ -11,5 +11,5 @@ The code will appear as the course progresses and will be divided into parts as 
   5. Traffic simulation
   6. Neural network
   7. Visualizing neural networks
-  7. Optimization
-  8. Fine-tuning
+  8. Optimization
+  9. Fine-tuning
