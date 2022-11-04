@@ -1,0 +1,12 @@
+body{
+   margin:0;
+   background:darkgray;
+   overflow:hidden;
+   text-align:center;
+}
+#carCanvas{
+   background:lightgray;
+}
+#networkCanvas{
+   background:black;
+}
